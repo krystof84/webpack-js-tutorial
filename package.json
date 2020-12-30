@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:knpuniversity/javascript.git",
+  "author": "Ryan Weaver <ryan@thatsquality.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "babel-core": "6.26.3",
+    "babel-loader": "7",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "1.7.0",
+    "bootstrap-sass": "3.3.7",
+    "copy-webpack-plugin": "4",
+    "css-loader": "0.28",
+    "file-loader": "1.1.4",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "resolve-url-loader": "2",
+    "sass-loader": "^6.0",
+    "style-loader": "^2.0.0",
+    "sweetalert2": "6.6.6",
+    "webpack": "3"
+  },
+  "dependencies": {}
+}
